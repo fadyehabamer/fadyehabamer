@@ -52,6 +52,7 @@
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Ubuntu-v20.04-orange?style=for-the-badge&logo=ubuntu" alt="ubuntu" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Windows-v10-blue?style=for-the-badge&logo=windows" alt="windows" style="vertical-align:top; margin:4px"></code>
+  
 </p>
 
 <br />
@@ -70,6 +71,7 @@
 
 
 ---
+### Problem Solving website progress
 <table border = "1" bordercolor = "blue">
    <tr>
     <td>Edabit</td>
@@ -79,6 +81,10 @@
     <td>JS</td>
   </tr>  
 </table>
+
+<br />
+<br />
+
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
 
