@@ -22,7 +22,7 @@
 
 <p ">
 <a href="https://github.com/fadyehabamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&theme=light&hide_langs_below=1" />
 </a>
 </p>
 
