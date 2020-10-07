@@ -1,4 +1,4 @@
-### Hi there, I'm Fady Amer 👋
+### Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a CS student and Full-Stack developer to be !
 - 🌱 I’m currently learning everything 🤣
@@ -16,14 +16,12 @@
 [<img align="left" alt="f | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 
 <br />
 
-
+### Github trophies
 <p>
 <a href="https://github.com/fadyehabamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&theme=light&hide_langs_below=1" />
