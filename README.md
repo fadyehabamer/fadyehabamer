@@ -1,6 +1,6 @@
 ### Hi there, I'm Fady Amer 👋
 
-## I'm a CS student and Full-Stack web developer!
+## I'm a CS student and Full-Stack developer to be !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
