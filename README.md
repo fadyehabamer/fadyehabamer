@@ -16,8 +16,10 @@
 [<img align="left" alt="f | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=gruvbox)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=light)
 
 <br />
 <br />
