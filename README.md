@@ -6,6 +6,7 @@
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach
 
+---
 ### Connect with me:
 
 
@@ -14,7 +15,7 @@
 [<img align="left" alt="f | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="f | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+---
 <br />
 <br />
 
@@ -33,11 +34,9 @@
 <br />
 <br />
 
-
+---
 ### Languages and Tools:
-
-
-<p align="center">
+<p>
   
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"></code>
@@ -57,7 +56,6 @@
 
 <br />
 <br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -81,13 +79,13 @@
     <td>JS</td>
   </tr>  
 </table>
-
+---
 <br />
 <br />
 
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
-
+---
 [website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
 [twitter]:   https://twitter.com/fadyehabamer
 [youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
