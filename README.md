@@ -19,7 +19,7 @@
 <br />
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=light)
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 
 <br />
 <br />
