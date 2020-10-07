@@ -16,17 +16,20 @@
 [<img align="left" alt="f | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
-<p align="center">
-<a href="https://github.com/StephaneDUPUY">
+
+<p ">
+<a href="https://github.com/fadyehabamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneDUPUY&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/StephaneDUPUY">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=StephaneDUPUY&show_icons=true&theme=dark&line_height=27" alt="Stephane's github stats"/>
 </a>
 </p>
 
 <br />
+<br />
+<br />
+
 
 ### Languages and Tools:
 
