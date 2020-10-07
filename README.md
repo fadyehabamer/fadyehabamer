@@ -14,14 +14,11 @@
 [<img align="left" alt="f | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="f | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<br />
+
 <br />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=gruvbox)
 
-
-<br />
 <br />
 <br />
 
