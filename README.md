@@ -22,7 +22,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 
 <br />
-<br />
 
 
 <p ">
