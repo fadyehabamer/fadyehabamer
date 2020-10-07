@@ -24,12 +24,11 @@
 <br />
 
 
-<p ">
+<p>
 <a href="https://github.com/fadyehabamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&theme=light&hide_langs_below=1" />
 </a>
 </p>
-
 <br />
 <br />
 
@@ -40,13 +39,12 @@
   
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"></code>
-<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px </code>
+<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px> </code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px"></code>
 
 </p>
 <p align="center">
-<code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="css" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/mysql.svg" alt="css" style="vertical-align:top; margin:4px"></code>
 
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
