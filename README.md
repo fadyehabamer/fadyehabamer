@@ -24,20 +24,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 
 <br />
-
-
-<p>
-<a href="https://github.com/fadyehabamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&theme=light&hide_langs_below=1" />
-</a>
-</p>
-<br />
 <br />
 
 
 ### Languages and Tools:
 <p>
-  
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"></code>
@@ -51,7 +42,6 @@
 <code><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Ubuntu-v20.04-orange?style=for-the-badge&logo=ubuntu" alt="ubuntu" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://img.shields.io/badge/Windows-v10-blue?style=for-the-badge&logo=windows" alt="windows" style="vertical-align:top; margin:4px"></code>
-  
 </p>
 
 <br />
