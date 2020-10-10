@@ -57,7 +57,7 @@
     <td>Edabit</td>
     <td>https://edabit.com/challenges</td>
     <td>Lvl 7</td>
-    <td>935 XP</td>
+    <td>1,060 XP</td>
     <td>JS</td>
   </tr>  
 </table>
