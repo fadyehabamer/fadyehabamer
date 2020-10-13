@@ -6,14 +6,8 @@
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach
 
-
-## Github Status
-!Years Badge (https://badges.pufler.dev/years/fadyehabamer)(https://badges.pufler.dev)
-!Most Active [GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)(https://commits.top/egypt.html)
-!Repos Badge(https://badges.pufler.dev/repos/fadyehabamer)(https://badges.pufler.dev)
-
-
-
+# Stats 
+[![fadyehabamer's github stats](https://github-readme-stats.vercel.app/api?username=fadyehabamer)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 [<img align="left" alt="f" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
