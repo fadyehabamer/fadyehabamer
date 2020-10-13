@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach
 
-# Stats 
+### Stats 
 <div align="left">
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
