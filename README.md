@@ -7,19 +7,11 @@
 - ⚡ Fun fact: I am a part-time Swimming coach
 
 # Stats 
-<div>
 <div align="left">
-
 ![](https://komarev.com/ghpvc/?username=fadyehabamer)
 [![Years Badge](https://badges.pufler.dev/years/fadyehabamer)](https://badges.pufler.dev)
-[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html)
+[![Most Active GitHub User Rank]()](https://commits.top/egypt.html)
 [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
-
-<div align="right">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
-</div>
-
-</div>
 </div>
 
 ### Connect with me:
