@@ -6,15 +6,16 @@
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach
 
-<br />
-[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)
-[![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html)
-[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev)
 
-<br />
+## Github Status
+![Years Badge](https://badges.pufler.dev/years/fadyehabamer)(https://badges.pufler.dev)
+![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)(https://commits.top/egypt.html)
+![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)(https://badges.pufler.dev)
+
+
+
+
 ### Connect with me:
-
-
 [<img align="left" alt="f" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="f | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="f | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
