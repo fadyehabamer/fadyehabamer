@@ -8,9 +8,9 @@
 
 
 ## Github Status
-![Years Badge](https://badges.pufler.dev/years/fadyehabamer)(https://badges.pufler.dev)
-![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)(https://commits.top/egypt.html)
-![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)(https://badges.pufler.dev)
+!Years Badge (https://badges.pufler.dev/years/fadyehabamer)(https://badges.pufler.dev)
+!Most Active [GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)(https://commits.top/egypt.html)
+!Repos Badge(https://badges.pufler.dev/repos/fadyehabamer)(https://badges.pufler.dev)
 
 
 
