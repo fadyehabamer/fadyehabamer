@@ -8,7 +8,7 @@
 
 # Stats 
 <div align="left">
-[![](https://komarev.com/ghpvc/?username=fadyehabamer)
+![](https://komarev.com/ghpvc/?username=fadyehabamer)
 [![Years Badge](https://badges.pufler.dev/years/fadyehabamer)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
 </div>
