@@ -11,7 +11,6 @@
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
 [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/fadyehabamer)](https://badges.pufler.dev)
 </div>
 
 ### Connect with me:
