@@ -10,7 +10,7 @@
 <div align="left">
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-[![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
+![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
 [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 </div>
