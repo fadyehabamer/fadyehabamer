@@ -1,42 +1,82 @@
-<h1 align="center">Hi 👋, I'm fady ehab amer</h1>
-<h3 align="center">A CS student & full stack web developer</h3>
+### Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadyehabamer&label=Profile%20views&color=0e75b6&style=flat" alt="fadyehabamer" /> </p>
+## I'm a CS student and Full-Stack developer to be !
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Learn to build big projects using more tools and PL.
+- ⚡ Fun fact: I am a part-time Swimming coach
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadyehabamer" alt="fadyehabamer" /></a> </p>
+### Stats 
+<div align="left">
+   
+![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
+[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
-<p align="left"> <a href="https://twitter.com/fadyehabamer" target="blank"><img src="https://img.shields.io/twitter/follow/fadyehabamer?logo=twitter&style=for-the-badge" alt="fadyehabamer" /></a> </p>
+</div>
 
-- 🔭 I’m currently learning : **Everything**
+### Connect with me:
+[<img align="left" alt="f" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="f | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="f | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="f | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="f | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- 🥅 2020 Goals: **Learn to build big projects using more tools and PL.**
+<br />
+<br />
 
-- 👯 I’m looking to collaborate on: **With other developers**
 
-- 👨‍💻 All of my projects are available: at [https://fady-amer.netlify.app/](https://fady-amer.netlify.app/)
+### Github trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
+<br />
 
-- 📝 I regulary write articles on: [https://dev.to/fadyehabamer](https://dev.to/fadyehabamer)
+### Languages and Tools:
+<!-- start tools and languages -->
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="jquery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<!-- start tools and languages -->
+<br />
+<br />
+<br />
 
-- 📫 How to reach me: **fadyamer45@gmail.com**
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Raiting stars 🌟 using css3](https://www.youtube.com/watch?v=R8qjI4bqCLQ&t=3s)
+- [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s)
+- [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ)
+- [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s)
+- [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM)
+<!-- YOUTUBE:END -->
 
-- ⚡ Fun fact: **I am a part-time Swimming coach**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fadyehabamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fadyehabamer" height="30" width="40" /></a>
-<a href="https://twitter.com/fadyehabamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fadyehabamer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fady amer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fady amer" height="30" width="40" /></a>
-<a href="https://fb.com/fady amer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fady amer" height="30" width="40" /></a>
-<a href="https://instagram.com/fadyehabamer00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fadyehabamer00" height="30" width="40" /></a>
-</p>
+### Problem Solving website progress
+<!-- start problem solving -->
+<table border = "1" bordercolor = "blue">
+   <tr>
+    <td>Edabit</td>
+    <td>https://edabit.com/challenges</td>
+    <td>Lvl 7</td>
+    <td>1,060 XP</td>
+    <td>JS</td>
+  </tr>  
+</table>
+<!-- end problem solving -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadyehabamer&show_icons=true&locale=en&layout=compact" alt="fadyehabamer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&locale=en" alt="fadyehabamer" /></p>
+<img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
+
+[website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
+[twitter]:   https://twitter.com/fadyehabamer
+[youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
+[instagram]: https://www.instagram.com/fadyehabamer00/
+[linkedin]:  https://www.linkedin.com/in/fady-amer/
