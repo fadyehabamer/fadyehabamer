@@ -1,6 +1,6 @@
 ### Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a CS student and Full-Stack developer to be !
+## I'm a CS student and Full-Stack web developer to be !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
@@ -11,7 +11,6 @@
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-
 [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 </div>
