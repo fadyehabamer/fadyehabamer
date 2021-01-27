@@ -10,7 +10,7 @@
 <div align="left">
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fadyehabamer)
 <br>
 [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
