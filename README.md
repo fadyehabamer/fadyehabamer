@@ -80,11 +80,11 @@
 ### ❗❗bar_chart: Weekly development breakdown
 
 ```
-javascript   7 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Markdown     6 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
-CSS          5 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
-HTML         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+javascript   7 hrs 50 mins   ███████░░░░░░░░░░░░░░░   27.43 % 
+Markdown     6 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░   22.65 % 
+CSS          5 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░   18.13 % 
+HTML         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ````
 
 
