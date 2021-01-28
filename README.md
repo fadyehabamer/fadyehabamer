@@ -77,7 +77,7 @@
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
 <a href="https://github-readme-stats.fadyehabamer.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.fadyehabamer.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=light" />
+  <img align="center" src="https://github-readme-stats.fadyehabamer.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=radical" />
 </a>
 
 
