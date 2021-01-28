@@ -76,7 +76,7 @@
 
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
-<img align="right" alt="'s Most used PL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&hide=TeX&layout=compact)"/>
+<img alt="'s Most used PL" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&hide=TeX&layout=compact)"/>
 
 
 [website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
