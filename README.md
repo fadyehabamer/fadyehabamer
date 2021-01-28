@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach
 
-### Stats 
+### 👦Stats 
 <div align="left">
    
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
@@ -15,7 +15,7 @@
 
 </div>
 
-### Connect with me:
+### 👨‍💻Connect with me:
 [<img align="left" alt="f" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="f | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="f | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,7 +30,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 <br />
 
-### Languages and Tools:
+### 👾Languages and Tools:
 <!-- start tools and languages -->
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -59,7 +59,7 @@
 
 
 
-### Problem Solving website progress
+### 🌎Problem Solving website progress
 <!-- start problem solving -->
 <table border = "1" bordercolor = "blue">
    <tr>
@@ -77,7 +77,7 @@
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
 
-### :bar_chart: Weekly development breakdown
+### ❗❗bar_chart: Weekly development breakdown
 
 ```
 javascript   7 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
