@@ -74,7 +74,7 @@
 <br />
 
 
-<img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
+<img align="" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
 
 ### ❗❗bar_chart: Weekly development breakdown
 
