@@ -8,10 +8,8 @@
 
 ### 👦Stats 
 <div align="left">
-   
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
 [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
-
 </div>
 
 ### 👨‍💻Connect with me:
@@ -47,8 +45,10 @@
 <br />
 <br />
 <br />
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+<br/>
 - [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s)
 - [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ)
 - [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s)
