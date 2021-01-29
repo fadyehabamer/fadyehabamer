@@ -49,10 +49,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <br/>
-- [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s)
-- [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ)
-- [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s)
-- [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM)
+- [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) <br/>
+- [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ) <br/>
+- [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
+- [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
 <!-- YOUTUBE:END -->
 
 
