@@ -2,7 +2,7 @@
 
 ## I'm a CS student and Full-Stack web developer to be !
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach.
 
