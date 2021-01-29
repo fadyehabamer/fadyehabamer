@@ -46,7 +46,7 @@
 <br />
 <br />
 <br />
-
+<br />
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s)
@@ -71,9 +71,6 @@
 <!-- end problem solving -->
 
 <br />
-
-
-<img align="" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true" />
 
 ### ❗bar_chart: Weekly development breakdown
 
