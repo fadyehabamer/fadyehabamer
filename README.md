@@ -46,11 +46,9 @@
 <br />
 <br />
 <br />
-<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-<br/>
 - [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) <br/>
 - [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ) <br/>
 - [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
