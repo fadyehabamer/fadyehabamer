@@ -15,7 +15,7 @@
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
 
 ![Analysis][]
-Stats by [tipsy/profile-summary-for-github][]
+Stats by [https://profile-summary-for-github.com/user/fadyehabamer][]
 
 
    
