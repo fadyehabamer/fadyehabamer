@@ -74,7 +74,7 @@
 
 <br />
 
-### ❗bar_chart: Weekly development breakdown
+### ❗ Weekly development breakdown
 ```
 javascript   7 hrs 50 mins   ███████░░░░░░░░░░░░░░░   27.43 % 
 Markdown     6 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░   22.65 % 
