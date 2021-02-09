@@ -71,9 +71,7 @@
   </tr>  
 </table>
 <!-- end problem solving -->
-
 <br />
-
 ### ❗ Weekly development breakdown
 ```
 javascript   7 hrs 50 mins   ███████░░░░░░░░░░░░░░░   27.43 % 
@@ -82,8 +80,6 @@ CSS          5 hrs 11 mins   ████▓░░░░░░░░░░░░
 HTML         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
-
-
 
 [website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
 [twitter]:   https://twitter.com/fadyehabamer
