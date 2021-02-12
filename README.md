@@ -72,6 +72,7 @@
 </table>
 <!-- end problem solving -->
 <br />
+
 ### ❗ Weekly development breakdown
 
 ```
