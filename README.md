@@ -29,6 +29,7 @@
 
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
 <br />
 
 ### 👾Languages and Tools:
