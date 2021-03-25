@@ -9,9 +9,7 @@
 ### 👦Stats 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-
-[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
    
