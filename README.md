@@ -15,9 +15,11 @@
 
 [![Sparkline](https://stars.medv.io/fadyehabamer/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-   [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
 </div>
+
+<div align="right">
+      [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+   </div>
 
 ### 👨‍💻Connect with me:-
 [<img align="left" alt="f  | Website" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
