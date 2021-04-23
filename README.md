@@ -13,7 +13,7 @@
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
 
-[![Sparkline](https://stars.medv.io/fadyehabamer/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/fadyehabamer/badges.svg)](https://stars.medv.io/fadyehabamer/badges)
 
 </div>
 
