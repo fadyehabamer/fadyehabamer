@@ -6,6 +6,11 @@
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
 - ⚡ Fun fact: I am a part-time Swimming coach. 
 
+<br>
+<br>
+<br>
+<br>
+
 ### 👦Stats:
 <div align="left">
 
@@ -16,6 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
+
+
 <br />
 <br />
 <br />
@@ -30,12 +37,17 @@
 [<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
+<br>
+<br>
 
 
 ### 🏆 Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
 <br />
+<br>
+<br>
+<br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 <!-- start tools and languages -->
@@ -53,6 +65,7 @@
 <br />
 <br />
 <br />
+<br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -62,6 +75,10 @@
 - [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
 - [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
 <!-- YOUTUBE:END -->
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -78,6 +95,9 @@
 </table>
 <!-- end problem solving -->
 <br />
+<br>
+<br>
+<br>
 
 ### ❗ Weekly development breakdown
 
