@@ -15,7 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
-<br />
 
 ###  👨‍💻Connect with me
 [<img align="left" alt="f  | Website" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
