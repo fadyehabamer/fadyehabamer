@@ -16,33 +16,22 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 </div>
-
-
-<br />
-<br />
-<br />
 <br />
 
-
-### 👨‍💻Connect with me:-
+###  👨‍💻Connect with me
 [<img align="left" alt="f  | Website" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img  align="left" alt="f | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  alt="f | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="f | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<br />
-<br>
-<br>
 
+<br />
+<br />
 
 ### 🏆 Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
 <br />
-<br>
-<br>
-<br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
 <!-- start tools and languages -->
@@ -60,7 +49,6 @@
 <br />
 <br />
 <br />
-<br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -71,11 +59,6 @@
 - [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
 <!-- YOUTUBE:END -->
 <br>
-<br>
-<br>
-<br>
-
-
 
 ### 🌎Problem Solving website progress
 <!-- start problem solving -->
@@ -90,9 +73,6 @@
 </table>
 <!-- end problem solving -->
 <br />
-<br>
-<br>
-<br>
 
 ### ❗ Weekly development breakdown
 
