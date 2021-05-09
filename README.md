@@ -8,8 +8,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 ### 👦Stats:
 <div align="left">
