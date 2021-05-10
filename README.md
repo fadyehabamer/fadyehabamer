@@ -64,7 +64,7 @@
 <table border = "1" bordercolor = "blue">
    <tr>
     <td>Edabit</td>
-    <td>https://edabit.com/challenges</td>
+    <td>https://edabit.com/user/DXa4QWAASdwrmo42q</td>
     <td>Lvl 7</td>
     <td>1,170 XP</td>
     <td>JS</td>
