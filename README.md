@@ -69,6 +69,14 @@
     <td>1,170 XP</td>
     <td>JS</td>
   </tr>  
+   
+   <tr>
+    <td>Leetcode</td>
+    <td>https://leetcode.com/fadyehabamer/</td>
+    <td>Lvl 1</td>
+    <td>3 problems</td>
+    <td>JS</td>
+  </tr>  
 </table>
 <!-- end problem solving -->
 <br />
