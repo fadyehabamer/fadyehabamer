@@ -1,4 +1,4 @@
-### Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a CS student and Full-Stack web developer to be !
 - 🌱 I’m currently learning everything
