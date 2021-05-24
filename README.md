@@ -10,7 +10,7 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/fadyehabamer)](https://badges.pufler.dev)
-[![Sparkline](https://stars.medv.io/fadyehabamer/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/fadyehabamer/badges)
 
 
 
