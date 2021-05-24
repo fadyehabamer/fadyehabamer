@@ -99,6 +99,6 @@ Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░
 [twitter]:   https://twitter.com/fadyehabamer
 [youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
 [instagram]: https://www.instagram.com/fadyehabamer00/
-[linkedin]:  https://www.linkedin.com/in/fady-amer/
+[linkedin]:  https://www.linkedin.com/in/fadyehabamer/
 [facebook]:  https://www.facebook.com/fadyehabamer/
 
