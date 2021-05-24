@@ -24,6 +24,8 @@
 [<img align="left"  alt="f | Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="f | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="f | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="f | Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+
 <br />
 <br />
 
@@ -98,3 +100,5 @@ Python       1 hr 46 mins    █▓░░░░░░░░░░░░░░░
 [youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
 [instagram]: https://www.instagram.com/fadyehabamer00/
 [linkedin]:  https://www.linkedin.com/in/fady-amer/
+[facebook]:  https://www.facebook.com/fadyehabamer/
+
