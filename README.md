@@ -52,7 +52,10 @@
 <!-- start tools and languages -->
 <br />
 <br />
+<hr>
+<img align="left" width="45px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
+<hr>
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Custom cursor ❌ using pure css3!](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s)</br>
