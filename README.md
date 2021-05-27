@@ -34,7 +34,6 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fadyehabamer)](https://git.io/streak-stats)
 <br />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
