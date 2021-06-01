@@ -18,6 +18,19 @@
 </p>
 </div>
 
+<div>
+   <p align="left">
+   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
+   </p>
+      <p align="left">
+      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadyehabamer)  
+   </p>
+</div>
+
+
+
+
+
 ###  👨‍💻Connect with me
 
 [<img align="left" alt="f  | Website" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
