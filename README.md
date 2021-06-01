@@ -18,10 +18,11 @@
 </p>
 </div>
 
-<div>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadyehabamer)  
-</div>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
+<img src="https://activity-graph.herokuapp.com/graph?username=fadyehabamer" width="420" height="165">  
+   
+</p>
 
 
 
