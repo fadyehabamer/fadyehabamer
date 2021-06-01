@@ -19,12 +19,8 @@
 </div>
 
 <div>
-   <p align="left">
-   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
-   </p>
-      <p align="left">
-      ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadyehabamer)  
-   </p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadyehabamer)  
 </div>
 
 
