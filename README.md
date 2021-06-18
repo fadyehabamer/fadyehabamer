@@ -42,7 +42,7 @@
 ### 🏆 Github trophies
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
 <br />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:
