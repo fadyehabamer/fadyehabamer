@@ -41,7 +41,6 @@
 
 ### 🏆 Github trophies
 
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
 <br />
 
