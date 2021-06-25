@@ -1,6 +1,7 @@
-# Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=25&lines=Hi+%2C+I+am+Fady+Ehab+Amer+%E2%9C%8C)](https://git.io/typing-svg)
+<!-- # Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> -->
 ## I'm a CS student and Front-End web developer !
+
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate with other developers. 
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
