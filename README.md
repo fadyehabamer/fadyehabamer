@@ -102,10 +102,6 @@
 <!-- end problem solving -->
 <br />
 
-### ❗ Weekly development breakdown
-
-[![FadyEhabAmer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadyehabamer)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
 [twitter]:   https://twitter.com/fadyehabamer
