@@ -70,6 +70,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SVG Text animation 🔅🔆 using CSS3](https://www.youtube.com/watch?v=4nMoIKhY0JM&t=13s)
 - [Custom cursor ❌ using pure css3!](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s)</br>
 - [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) <br/>
 - [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ) <br/>
@@ -100,10 +101,10 @@
 
 <!-- end problem solving -->
 <br />
-<!-- 
+
 ### ❗ Weekly development breakdown
 
-[![FadyEhabAmer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadyehabamer)](https://github.com/anuraghazra/github-readme-stats) -->
+[![FadyEhabAmer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadyehabamer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
