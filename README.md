@@ -63,6 +63,7 @@
 <img align="left" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png" />
 <img align="left" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />
+<img align="left" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" />
 <br>
 <br />
 <br />
