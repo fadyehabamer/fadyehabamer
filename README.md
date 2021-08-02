@@ -1,6 +1,6 @@
 # Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## I'm a CS student and Front-End web developer !
+## I'm a CS student , Front-End web developer , Cat Dad !
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate with other developers. 
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
