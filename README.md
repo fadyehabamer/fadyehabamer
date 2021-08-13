@@ -69,7 +69,7 @@
     <td>https://edabit.com/user/DXa4QWAASdwrmo42q</td>
     <td>Lvl 7</td>
     <td>1,180 XP</td>
-    <td>JS</td>
+    <td>Javascript</td>
   </tr>  
    
    <tr>
