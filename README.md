@@ -1,17 +1,18 @@
 # Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## I'm a CS student , Front-End web developer and Cat Dad !
+
 - 🌱 I’m currently learning FrontEnd Web Development.
-- 👯 I’m looking to collaborate with other developers. 
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
-- 🤣 Fun fact (1) : I am a Youtuber with +1k Views. 
-- 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. 
+- 🤣 Fun fact (1) : I am a Youtuber with +1k Views.
+- 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach.
 
 ### 👦 Stats:
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev) 
+![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
@@ -25,10 +26,7 @@
     
 </p>
 
-
-
-
-###  👨‍💻Connect with me
+### 👨‍💻Connect with me
 
 <p>
 
@@ -45,6 +43,7 @@
 <br />
 
 ### 🏆 Github trophies
+
 <p>
     
 ![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
@@ -70,6 +69,7 @@
 <br />
 
 ### 🌎Problem Solving website progress
+
 <!-- start problem solving -->
 <table border = "1" bordercolor = "blue">
    <tr>
@@ -90,9 +90,9 @@
 </table>
 <br />
 
-[website]:   https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
-[twitter]:   https://twitter.com/fadyehabamer
-[youtube]:   https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
+[website]: https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
+[twitter]: https://twitter.com/fadyehabamer
+[youtube]: https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
 [instagram]: https://www.instagram.com/fadyehabamer00/
-[linkedin]:  https://www.linkedin.com/in/fadyehabamer/
-[facebook]:  https://www.facebook.com/fadyehabamer/
+[linkedin]: https://www.linkedin.com/in/fadyehabamer/
+[facebook]: https://www.facebook.com/fadyehabamer/
