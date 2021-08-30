@@ -15,7 +15,9 @@
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy" alt="my github stats" width="420"/>
+    &nbsp;
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165"> -->
 </p>
 </div>
 
