@@ -3,7 +3,6 @@
 </p>
 
 <br/>
-<br/>
 
 ### 🤓 About Me :
 - <h5> 🌱 I’m currently learning React.js & Vue.js. </h5>
