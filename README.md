@@ -5,14 +5,20 @@
     <img src="img.png">
 </p>
 
-- <h3> 🌱 I’m currently learning React.js & Vue.js. </h3>
-- <h3> 👯 I’m looking to collaborate with other developers. </h3>
-- <h3> 🥅 2021 Goals: Learn to build big projects using more tools and PL. </h3>
-- <h3> 🤣 Fun fact (1) : I am a Youtuber with +1k Views. </h3>
-- <h3> 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. </h3>
+<br/>
+<br/>
+
+- <h4> 🌱 I’m currently learning React.js & Vue.js. </h4>
+- <h4> 👯 I’m looking to collaborate with other developers. </h4>
+- <h4> 🥅 2021 Goals: Learn to build big projects using more tools and PL. </h4>
+- <h4> 🤣 Fun fact (1) : I am a Youtuber with +1k Views. </h4>
+- <h4> 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. </h4>
+
+<br/>
+<br/>
+
 
 ### 👦 Stats:
-
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) [![Repos Badge](https://badges.pufler.dev/repos/fadyehabamer)](https://badges.pufler.dev)
