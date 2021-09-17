@@ -1,6 +1,3 @@
-<!-- # Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
- ## I'm a CS student , Front-End web developer and Cat Dad ! -->
-
 <p align="center">
     <img src="img.png">
 </p>
@@ -8,6 +5,7 @@
 <br/>
 <br/>
 
+### 👦 Who am I ?:
 - <h4> 🌱 I’m currently learning React.js & Vue.js. </h4>
 - <h4> 👯 I’m looking to collaborate with other developers. </h4>
 - <h4> 🥅 2021 Goals: Learn to build big projects using more tools and PL. </h4>
@@ -24,7 +22,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
     &nbsp;
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=buefy" alt="languages" height="165"> -->
 </p>
 </div>
 
