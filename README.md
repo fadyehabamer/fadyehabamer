@@ -1,14 +1,15 @@
 <!-- # Hi, I'm Fady Ehab Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
  ## I'm a CS student , Front-End web developer and Cat Dad ! -->
+
 <p align="center">
     <img src="img.png">
 </p>
 
-- 🌱 I’m currently learning React.js & Vue.js.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Learn to build big projects using more tools and PL.
-- 🤣 Fun fact (1) : I am a Youtuber with +1k Views.
-- 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach.
+- <h3> 🌱 I’m currently learning React.js & Vue.js. </h3>
+- <h3> 👯 I’m looking to collaborate with other developers. </h3>
+- <h3> 🥅 2021 Goals: Learn to build big projects using more tools and PL. </h3>
+- <h3> 🤣 Fun fact (1) : I am a Youtuber with +1k Views. </h3>
+- <h3> 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. </h3>
 
 ### 👦 Stats:
 
