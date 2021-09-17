@@ -15,8 +15,6 @@
 - <h4> 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. </h4>
 
 <br/>
-<br/>
-
 
 ### 👦 Stats:
 <div align="left">
