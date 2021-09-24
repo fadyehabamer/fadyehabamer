@@ -6,7 +6,7 @@
 
 ### 🤓 About Me :
 - 🌱 I’m currently learning React.js & Vue.js.
-- <h5> 👯 I’m looking to collaborate with other developers. </h5>
+- 👯 I’m looking to collaborate with other developersد
 - <h5> 🥅 2021 Goals: Learn to build big projects using more tools and PL. </h5>
 - <h5> 🤣 Fun fact (1) : I am a Youtuber with +1k Views. </h5>
 - <h5> 🏊‍♂️ Fun fact (2) : I am a part-time Swimming coach. </h5>
