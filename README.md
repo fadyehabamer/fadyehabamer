@@ -76,7 +76,6 @@
 
 ### 🌎Problem Solving website progress
 
-<!-- start problem solving -->
 <table border = "1" bordercolor = "blue">
    <tr>
     <td>Edabit</td>
