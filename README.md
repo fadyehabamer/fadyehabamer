@@ -75,6 +75,12 @@
 
 <br />
 
+### 🐦 Latest Twitter Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=fadyehabamer)](https://github.com/gazf/github-readme-twitter)
+
+
+
+
 ### 🌎Problem Solving website progress
 
 <table border = "1" bordercolor = "blue">
