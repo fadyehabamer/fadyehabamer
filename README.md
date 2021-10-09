@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🤓 About Me :
+### 🤓 Who am I :
 
 - 🌱 I’m currently learning React.js & Vue.js.
 - 👯 I’m looking to collaborate with other developers
