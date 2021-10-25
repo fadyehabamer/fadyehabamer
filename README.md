@@ -23,13 +23,14 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
 </p>
 </div>
 
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
 
-<img src ="https://activity-graph.herokuapp.com/graph?username=fadyehabamer&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" >
+<!-- <img src ="https://activity-graph.herokuapp.com/graph?username=fadyehabamer&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165" > --> -->
     
 </p>
 <hr>
