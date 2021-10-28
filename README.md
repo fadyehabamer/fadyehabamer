@@ -9,7 +9,7 @@
 - 🟢 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn to build big projects using more tools and PL.
-- 🤣 Fun fact 1 : I am a Youtuber with +1k Views.
+- 🤣 Fun fact  : I am a Youtuber with +1k Views.
 - 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
 
 <br/>
