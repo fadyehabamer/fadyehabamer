@@ -13,6 +13,7 @@
 - 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
 
 <br/>
+
 <hr>
 
 ### 👦 Github Stats:
@@ -112,6 +113,7 @@
     <td>Javascript</td>
   </tr>  
 </table>
+
 <br />
 
 [website]: https://fady-amer.netlify.app/?fbclid=IwAR0YoDOni8mB5Fi3BoPSOdBRwfQueaN8QZL71CcclguDAU93ccBOxMEI92I
