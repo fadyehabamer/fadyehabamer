@@ -2,7 +2,6 @@
    <img src="img.png">
 </p>
 
-
 <br/>
 
 ### 🤓 Who am I :
