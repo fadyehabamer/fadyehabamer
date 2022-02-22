@@ -81,11 +81,11 @@
 <br />
 <hr>
 
-<!-- ### 🐦 Latest Twitter Tweets
+
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=fadyehabamer&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
--->
+
 
 ### 🌎Problem Solving website progress
 
