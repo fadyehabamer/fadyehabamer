@@ -32,8 +32,6 @@
 </div>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
-
     
 </p>
 <hr>
