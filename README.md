@@ -27,9 +27,6 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420" height="165">
 </p>
    
-<!-- <p>
-   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fadyehabamer&show-avatar=false&style=--header-bg-color:%23000;--border-radius:3px">
-</p> -->
 
    
 </div>
