@@ -78,11 +78,7 @@
 - [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
 - [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
 
-<br />
 <hr>
-
-
-
 
 
 ### 🌎Problem Solving website progress
