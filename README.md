@@ -13,7 +13,6 @@
 - 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
 
 <br/>
-
 <hr>
 
 ### 👦 Github Stats:
