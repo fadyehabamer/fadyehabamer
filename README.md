@@ -76,7 +76,6 @@
 
 <hr>
 
-
 ### 🌎Problem Solving website progress
 
 <table border = "1" bordercolor = "blue">
