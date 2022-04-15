@@ -102,8 +102,7 @@
     <td>63 problems</td>
     <td>Javascript</td>
   </tr>
-   
-   
+ 
 </table>
 
 <br />
