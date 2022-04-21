@@ -99,7 +99,7 @@
     <td>CoderHub</td>
     <td>https://profile.satr.codes/user/fadyehabamer</td>
     <td>4 Stars Skill</td>
-    <td>63 problems</td>
+    <td>97 problems</td>
     <td>Javascript</td>
   </tr>
  
