@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🤓 Who am I? (Breifly):
+### 🤓 Who am I? (Briefly):
 
 - 🔵 I’m currently learning React.js.
 - 👯 I’m looking to collaborate with other developers
