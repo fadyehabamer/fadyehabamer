@@ -22,9 +22,9 @@
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 <p align="left">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&locale=en" alt="fadyehabamer"  width="420"  height="165">
+   <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&locale=en" alt="fadyehabamer"  width="420"  height="165">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer" width="420"  height="165">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer"  height="165">
 </p>
      
 </div>
