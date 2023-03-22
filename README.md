@@ -19,7 +19,8 @@
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer) 
+<!--    [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html) -->
 
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&locale=en" alt="fadyehabamer"  width="420"  height="165">
