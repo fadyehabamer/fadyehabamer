@@ -25,7 +25,8 @@
 
 <p align="left">
    ![](https://github-readme-stats.vercel.app/api?username=fadyehabamer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer&theme=dark&hide_border=false)
+   <br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer&theme=dark&hide_border=false)
 </p>
      
 </div>
