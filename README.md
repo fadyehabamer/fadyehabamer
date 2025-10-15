@@ -21,9 +21,7 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
 [![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/fadyehabamer.svg)](https://user-badge.committers.top/egypt/fadyehabamer)
-
-
-![](https://github-readme-stats.vercel.app/api?username=fadyehabamer&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer&theme=light&hide_border=false)<br/>
      
 </div>
