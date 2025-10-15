@@ -20,10 +20,7 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/fadyehabamer.svg)](https://user-badge.committers.top/egypt/fadyehabamer)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer&theme=light&hide_border=false)<br/>
-     
+[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/fadyehabamer.svg)](https://user-badge.committers.top/egypt/fadyehabamer)     
 </div>
 
 </p>
