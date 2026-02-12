@@ -20,7 +20,8 @@
 <div align="left">
 
 ![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt_private/fadyehabamer.svg)](https://user-badge.committers.top/egypt_private/fadyehabamer)
+[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt_public/fadyehabamer.svg)](https://user-badge.committers.top/egypt_private/fadyehabamer)
+
 </div>
 
 </p>
