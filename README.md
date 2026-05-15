@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="banner.png" />
-</p>
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
 
-<h1 align="center">Hey, I'm Fady Ehab 👋</h1>
+<br/>
 
-<p align="center">
-  Frontend Developer specializing in Arabic/RTL web experiences · React · Angular · React Native · MENA Market
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Fady+Ehab+%F0%9F%91%8B;Frontend+Developer;Arabic+%2F+RTL+Specialist;MENA+Market+Builder" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://www.fadyehabamer.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
@@ -27,26 +29,63 @@
   <a href="https://www.facebook.com/fadyehabamer/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</p>
+</div>
 
-<br />
+<br/>
 
----
-
-### 🧑‍💻 About Me
-
-- 🌍 Frontend developer focused on **Arabic/RTL web experiences** for the **Saudi & MENA market**
-- ⚡ I build with **React**, **Angular**, **React Native** — and customize **Salla e-commerce** storefronts
-- 🕌 Side project: Building a **Quran PWA** (azkar & dhikr app)
-- 🎯 2026 Goals: Ship production-scale apps, deepen Angular expertise, grow in the MENA frontend scene
-- 📺 Fun fact 1: YouTuber with **CSS animation & UI tricks** content · 1K+ views
-- 🏊 Fun fact 2: Part-time swimming coach
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fadyehabamer&color=58A6FF&style=flat-square&label=Profile+Views" />
+  <a href="https://user-badge.committers.top/egypt_private/fadyehabamer">
+    <img src="https://user-badge.committers.top/egypt_public/fadyehabamer.svg" />
+  </a>
+</div>
 
 ---
 
-### 💻 Tech Stack
+## 🧑‍💻 About Me
 
-**Frontend**
+```javascript
+const fady = {
+  role:        "Frontend Developer",
+  focus:       ["Arabic/RTL Experiences", "MENA Market", "E-commerce"],
+  stack:       ["React", "Angular", "React Native"],
+  platforms:   ["Salla", "Vercel", "Netlify"],
+  sideProject: "Quran PWA — azkar & dhikr app 🕌",
+  goals2026:   ["Ship production-scale apps", "Go deep on Angular", "Grow in MENA frontend scene"],
+  funFacts:    ["YouTuber · CSS & UI animations · 1K+ views 📺", "Part-time swimming coach 🏊"],
+  available:   true
+};
+```
+
+---
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/-E--Commerce-green?style=flat-square" /><br/>
+      <b>Salla Storefronts</b><br/>
+      <sub>Custom JS/CSS injections, RTL layouts, Arabic UX for Saudi market clients</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/-PWA-blue?style=flat-square" /><br/>
+      <b>Quran PWA</b><br/>
+      <sub>Azkar & dhikr app with offline support, push notifications, Arabic-first design</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/-Web+Apps-orange?style=flat-square" /><br/>
+      <b>Client Projects</b><br/>
+      <sub>Institutional sites, booking systems, B2B platforms across the MENA region</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+**🖥️ Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -65,13 +104,14 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-**Backend & Languages**
+**⚙️ Backend & Languages**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Deployment & Tools**
+**🛠️ Tools & Platforms**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -83,51 +123,57 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true" />
+</div> -->
 
 <div align="center">
-
-![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
+  <img src="https://streak-stats.demolab.com?user=fadyehabamer&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
+<br/>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fadyehabamer&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=fadyehabamer&color=blue)
-[![Most Active User on GitHub in Egypt](https://user-badge.committers.top/egypt_public/fadyehabamer.svg)](https://user-badge.committers.top/egypt_private/fadyehabamer)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-### 📺 Latest YouTube Videos
+## 📺 YouTube · CSS & UI Animation Tutorials
 
-CSS & UI animation tutorials for frontend developers:
+> Building cool things with pure CSS, jQuery & creative frontend tricks
 
-- [SVG Text animation 🔅🔆 using CSS3](https://www.youtube.com/watch?v=4nMoIKhY0JM&t=13s)
-- [Custom cursor ❌ using pure CSS3](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s)
-- [Hinata card ♾️ using CSS3](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s)
-- [Firework effects 🎇 using jQuery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ)
-- [Hover effect 👆 using pure CSS3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s)
-- [Windows 10 Loader 😴 using CSS3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM)
+| Video | Watch |
+|-------|-------|
+| SVG Text animation 🔅🔆 using CSS3 | [▶ Watch](https://www.youtube.com/watch?v=4nMoIKhY0JM&t=13s) |
+| Custom cursor ❌ using pure CSS3 | [▶ Watch](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s) |
+| Hinata card ♾️ using CSS3 | [▶ Watch](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) |
+| Firework effects 🎇 using jQuery plugin | [▶ Watch](https://www.youtube.com/watch?v=cqfYSoXj_UQ) |
+| Hover effect 👆 using pure CSS3 | [▶ Watch](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) |
+| Windows 10 Loader 😴 using CSS3 Animation | [▶ Watch](https://www.youtube.com/watch?v=zmYSQGYb0eM) |
 
 ---
 
-### 🌎 Problem Solving Progress
+## 🌎 Problem Solving Progress
 
-| Platform  | Profile | Level / Stars | Solved | Language |
-|-----------|---------|---------------|--------|----------|
-| Edabit    | [fadyehabamer](https://edabit.com/user/DXa4QWAASdwrmo42q) | Lvl 7 · 1,180 XP | — | JavaScript |
-| LeetCode  | [fadyehabamer](https://leetcode.com/fadyehabamer/) | Lvl 1 | 3 problems | JavaScript |
-| CoderHub  | [fadyehabamer](https://profile.satr.codes/user/fadyehabamer) | ⭐⭐⭐⭐ | 97 problems | JavaScript |
+| Platform | Profile | Level | Solved | Language |
+|----------|---------|-------|--------|----------|
+| 🟠 Edabit | [fadyehabamer](https://edabit.com/user/DXa4QWAASdwrmo42q) | Lvl 7 · 1,180 XP | — | JavaScript |
+| 🟡 LeetCode | [fadyehabamer](https://leetcode.com/fadyehabamer/) | Lvl 1 | 3 problems | JavaScript |
+| 🟢 CoderHub | [fadyehabamer](https://profile.satr.codes/user/fadyehabamer) | ⭐⭐⭐⭐ | 97 problems | JavaScript |
+
+
+---
+
+<div align="center">
+  <i>✨ Open to collaborations, freelance work, and interesting ideas in the MENA frontend space.</i><br/><br/>
+  <b>📬 Reach me at <a href="https://www.fadyehabamer.com/">fadyehabamer.com</a></b>
+</div>
