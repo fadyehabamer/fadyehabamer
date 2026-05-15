@@ -91,8 +91,8 @@
 
 <div align="center">
 
-![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true)
+![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
