@@ -35,8 +35,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fadyehabamer&color=58A6FF&style=flat-square&label=Profile+Views" />
+  <br/><br/>
   <a href="https://user-badge.committers.top/egypt_private/fadyehabamer">
-    <img src="https://user-badge.committers.top/egypt_public/fadyehabamer.svg" />
+    <img src="https://user-badge.committers.top/egypt_private/fadyehabamer.svg" alt="committers.top badge" />
   </a>
 </div>
 
