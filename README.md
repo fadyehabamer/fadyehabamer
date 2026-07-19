@@ -173,39 +173,63 @@ const fady = {
   <b>📬 Reach me at <a href="https://www.fadyehabamer.com/">fadyehabamer.com</a></b>
 </div>
 
-
 ---
+
+<div align="center">
 
 ## 📂 Browse My Work by Category
 
-> Hundreds of small demos, consolidated into curated collections. Each links to a browsable repo with a README index.
+Hundreds of demos, **curated into browsable collections** — each with a README index.
+
+<br/>
 
 ### ⭐ Flagship Projects
 
-| Project | What it is |
-|---|---|
-| [**NYX**](https://github.com/fadyehabamer/NYX) | Zero-dependency CSS+JS framework — themeable, RTL-first (⭐37) |
-| [**otp-input-kit**](https://github.com/fadyehabamer/otp-input-kit) | Framework-agnostic OTP input library |
-| [**Portfolio**](https://github.com/fadyehabamer/FeaPortfolio2026) | My 2026 portfolio |
+<a href="https://github.com/fadyehabamer/NYX"><img src="https://img.shields.io/badge/NYX-CSS%20Framework%20%E2%AD%9037-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="NYX"/></a>
+<a href="https://github.com/fadyehabamer/otp-input-kit"><img src="https://img.shields.io/badge/otp--input--kit-Library-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="otp-input-kit"/></a>
 
-### 🎨 CSS & UI
+<br/><br/>
 
-[`css-logos`](https://github.com/fadyehabamer/css-logos) · [`css-loaders`](https://github.com/fadyehabamer/css-loaders) · [`css-animations`](https://github.com/fadyehabamer/css-animations) · [`css-components`](https://github.com/fadyehabamer/css-components) · [`css-layouts`](https://github.com/fadyehabamer/css-layouts) · [`css-snippets`](https://github.com/fadyehabamer/css-snippets)
+#### 🎨 CSS & UI
 
-### 🌐 Websites
+<a href="https://github.com/fadyehabamer/css-logos"><img src="https://img.shields.io/badge/css--logos-9-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-logos"/></a>
+<a href="https://github.com/fadyehabamer/css-loaders"><img src="https://img.shields.io/badge/css--loaders-7-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-loaders"/></a>
+<a href="https://github.com/fadyehabamer/css-animations"><img src="https://img.shields.io/badge/css--animations-37-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-animations"/></a>
+<a href="https://github.com/fadyehabamer/css-components"><img src="https://img.shields.io/badge/css--components-63-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-components"/></a>
+<a href="https://github.com/fadyehabamer/css-layouts"><img src="https://img.shields.io/badge/css--layouts-13-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-layouts"/></a>
+<a href="https://github.com/fadyehabamer/css-snippets"><img src="https://img.shields.io/badge/css--snippets-63-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-snippets"/></a>
 
-[`landing-pages`](https://github.com/fadyehabamer/landing-pages) · [`clones`](https://github.com/fadyehabamer/clones) · [`web-templates`](https://github.com/fadyehabamer/web-templates)
+<br/>
 
-### ⚡ JavaScript
+#### 🌐 Websites
 
-[`js-apps`](https://github.com/fadyehabamer/js-apps) · [`js-logic`](https://github.com/fadyehabamer/js-logic) · [`games`](https://github.com/fadyehabamer/games)
+<a href="https://github.com/fadyehabamer/landing-pages"><img src="https://img.shields.io/badge/landing--pages-21-1E88E5?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="landing-pages"/></a>
+<a href="https://github.com/fadyehabamer/clones"><img src="https://img.shields.io/badge/clones-11-1E88E5?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="clones"/></a>
+<a href="https://github.com/fadyehabamer/web-templates"><img src="https://img.shields.io/badge/web--templates-22-1E88E5?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="web-templates"/></a>
 
-### ⚛️ Frameworks
+<br/>
 
-[`react-lab`](https://github.com/fadyehabamer/react-lab) · [`framework-lab`](https://github.com/fadyehabamer/framework-lab)
+#### ⚡ JavaScript
 
-### 📚 Learning
+<a href="https://github.com/fadyehabamer/js-apps"><img src="https://img.shields.io/badge/js--apps-9-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="js-apps"/></a>
+<a href="https://github.com/fadyehabamer/js-logic"><img src="https://img.shields.io/badge/js--logic-5-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="js-logic"/></a>
+<a href="https://github.com/fadyehabamer/games"><img src="https://img.shields.io/badge/games-7-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="games"/></a>
 
-[`references`](https://github.com/fadyehabamer/references) · [`problem-solving`](https://github.com/fadyehabamer/problem-solving) · [`university`](https://github.com/fadyehabamer/university)
+<br/>
 
-_Private twins (`*-private`) exist for several categories._
+#### ⚛️ Frameworks
+
+<a href="https://github.com/fadyehabamer/react-lab"><img src="https://img.shields.io/badge/react--lab-4-06B6D4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="react-lab"/></a>
+<a href="https://github.com/fadyehabamer/framework-lab"><img src="https://img.shields.io/badge/framework--lab-3-06B6D4?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="framework-lab"/></a>
+
+<br/>
+
+#### 📚 Learning
+
+<a href="https://github.com/fadyehabamer/references"><img src="https://img.shields.io/badge/references-16-22C55E?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="references"/></a>
+<a href="https://github.com/fadyehabamer/problem-solving"><img src="https://img.shields.io/badge/problem--solving-6-22C55E?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="problem-solving"/></a>
+<a href="https://github.com/fadyehabamer/university"><img src="https://img.shields.io/badge/university-6-22C55E?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="university"/></a>
+
+<br/>
+
+</div>
