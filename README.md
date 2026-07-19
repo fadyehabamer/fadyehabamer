@@ -172,3 +172,40 @@ const fady = {
   <i>✨ Open to collaborations, freelance work, and interesting ideas in the MENA frontend space.</i><br/><br/>
   <b>📬 Reach me at <a href="https://www.fadyehabamer.com/">fadyehabamer.com</a></b>
 </div>
+
+
+---
+
+## 📂 Browse My Work by Category
+
+> Hundreds of small demos, consolidated into curated collections. Each links to a browsable repo with a README index.
+
+### ⭐ Flagship Projects
+
+| Project | What it is |
+|---|---|
+| [**NYX**](https://github.com/fadyehabamer/NYX) | Zero-dependency CSS+JS framework — themeable, RTL-first (⭐37) |
+| [**otp-input-kit**](https://github.com/fadyehabamer/otp-input-kit) | Framework-agnostic OTP input library |
+| [**Portfolio**](https://github.com/fadyehabamer/FeaPortfolio2026) | My 2026 portfolio |
+
+### 🎨 CSS & UI
+
+[`css-logos`](https://github.com/fadyehabamer/css-logos) · [`css-loaders`](https://github.com/fadyehabamer/css-loaders) · [`css-animations`](https://github.com/fadyehabamer/css-animations) · [`css-components`](https://github.com/fadyehabamer/css-components) · [`css-layouts`](https://github.com/fadyehabamer/css-layouts) · [`css-snippets`](https://github.com/fadyehabamer/css-snippets)
+
+### 🌐 Websites
+
+[`landing-pages`](https://github.com/fadyehabamer/landing-pages) · [`clones`](https://github.com/fadyehabamer/clones) · [`web-templates`](https://github.com/fadyehabamer/web-templates)
+
+### ⚡ JavaScript
+
+[`js-apps`](https://github.com/fadyehabamer/js-apps) · [`js-logic`](https://github.com/fadyehabamer/js-logic) · [`games`](https://github.com/fadyehabamer/games)
+
+### ⚛️ Frameworks
+
+[`react-lab`](https://github.com/fadyehabamer/react-lab) · [`framework-lab`](https://github.com/fadyehabamer/framework-lab)
+
+### 📚 Learning
+
+[`references`](https://github.com/fadyehabamer/references) · [`problem-solving`](https://github.com/fadyehabamer/problem-solving) · [`university`](https://github.com/fadyehabamer/university)
+
+_Private twins (`*-private`) exist for several categories._
