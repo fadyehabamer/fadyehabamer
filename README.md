@@ -27,50 +27,6 @@
 
 <br/>
 
-## 📂 My Work — Curated Collections
-
-<div align="center">
-  <a href="https://github.com/fadyehabamer/NYX"><img src="https://img.shields.io/badge/⭐_NYX-CSS_Framework-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="NYX"/></a>
-  <a href="https://github.com/fadyehabamer/otp-input-kit"><img src="https://img.shields.io/badge/otp--input--kit-Library-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="otp-input-kit"/></a>
-</div>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🎨 CSS &amp; UI</b><br/>
-      <a href="https://github.com/fadyehabamer/css-animations">css-animations</a> ·
-      <a href="https://github.com/fadyehabamer/css-components">css-components</a> ·
-      <a href="https://github.com/fadyehabamer/css-snippets">css-snippets</a> ·
-      <a href="https://github.com/fadyehabamer/css-logos">css-logos</a> ·
-      <a href="https://github.com/fadyehabamer/css-loaders">css-loaders</a> ·
-      <a href="https://github.com/fadyehabamer/css-layouts">css-layouts</a>
-      <br/><br/>
-      <b>🌐 Websites</b><br/>
-      <a href="https://github.com/fadyehabamer/landing-pages">landing-pages</a> ·
-      <a href="https://github.com/fadyehabamer/clones">clones</a> ·
-      <a href="https://github.com/fadyehabamer/web-templates">web-templates</a>
-      <br/><br/>
-      <b>⚡ JavaScript</b><br/>
-      <a href="https://github.com/fadyehabamer/js-apps">js-apps</a> ·
-      <a href="https://github.com/fadyehabamer/js-logic">js-logic</a> ·
-      <a href="https://github.com/fadyehabamer/games">games</a> ·
-      <a href="https://github.com/fadyehabamer/chrome-extensions">chrome-extensions</a>
-    </td>
-    <td valign="top" width="50%">
-      <b>⚛️ Frameworks</b><br/>
-      <a href="https://github.com/fadyehabamer/react-lab">react-lab</a> ·
-      <a href="https://github.com/fadyehabamer/framework-lab">framework-lab</a>
-      <br/><br/>
-      <b>📚 Learning</b><br/>
-      <a href="https://github.com/fadyehabamer/references">references</a> ·
-      <a href="https://github.com/fadyehabamer/problem-solving">problem-solving</a> ·
-      <a href="https://github.com/fadyehabamer/university">university</a>
-      <br/><br/>
-      <sub><i>~350 demos, organized into browsable collections — each with a README index.</i></sub>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 <div align="center">
