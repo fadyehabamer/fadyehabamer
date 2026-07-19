@@ -1,73 +1,103 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="Fady Ehab Amer" />
-</div>
+<img src="banner.png" width="100%" alt="Fady Ehab Amer" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Fady+Ehab+%F0%9F%91%8B;Frontend+Developer;Arabic%2FRTL+%E2%80%A2+MENA+E-commerce+Builder" alt="Typing SVG" />
-</div>
+# Hi, I'm Fady Ehab Amer 👋
 
-<div align="center">
-  <a href="https://www.fadyehabamer.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fadyehabamer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/fadyehabamer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fadyehabamer00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
+### Frontend Developer · Arabic/RTL & MENA E-commerce
 
-<p align="center">
-  <b>Frontend developer crafting Arabic-first, RTL e-commerce for the MENA market.</b><br/>
-  <sub>Salla storefronts · React · Angular · React Native · currently building a Quran PWA 🕌</sub>
-</p>
+I build **Arabic-first, RTL storefronts and web apps** for the MENA market — Salla themes, React/Angular dashboards, and React Native apps — with a focus on clean RTL layouts, performance, and Arabic UX. Currently shipping a **Quran PWA** 🕌 and always open to interesting frontend work.
 
-<br/>
+- 🌍 Based in Egypt, working across the **Saudi / MENA** market
+- 💼 Freelance & client work — **Salla storefronts, institutional sites, booking & B2B platforms**
+- 🎥 I run a **YouTube channel** on CSS & UI animation (1K+ views)
+- 🧠 Going deep on **Angular** and production-scale architecture in 2026
+- 🏊 Part-time swimming coach when I'm away from the keyboard
 
-<div align="center">
+<a href="https://www.fadyehabamer.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fadyehabamer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://twitter.com/fadyehabamer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/fadyehabamer00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-### ⚡ Tech Stack
+---
 
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,tailwind,bootstrap,materialui,jquery,cs,dotnet,python,php,laravel,vercel,netlify,figma,git,vscode&perline=11" alt="Tech stack" />
+## 🛠️ Tech Stack
 
-</div>
+**Frontend**
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<div align="center">
+**Backend & Languages**
 
-### 🏆 Trophies
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-<img src="https://github-profile-trophy.vercel.app/?username=fadyehabamer&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+**Platforms & Tools**
 
-</div>
+![Salla](https://img.shields.io/badge/Salla-00B4A0?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<br/>
+---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### 📊 GitHub Stats
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| **[NYX](https://github.com/fadyehabamer/NYX)** ⭐37 | Zero-dependency CSS + JS component framework — fully themeable, light/dark, first-class RTL & Arabic typography | CSS · JS |
+| **[otp-input-kit](https://github.com/fadyehabamer/otp-input-kit)** | Framework-agnostic OTP input library — RTL, i18n, a11y, timers, Web Component support | JavaScript |
+| **[fea-jobs](https://github.com/fadyehabamer/fea-jobs)** | Full-stack .NET recruitment system with Entity Framework & SQL Server | C# · .NET · EF · SQL |
+| **[ComputerVision-SandBox](https://github.com/fadyehabamer/ComputerVision-SandBox)** ⭐9 | Computer-vision lecture notes & Python code — OpenCV, NumPy, SciPy | Python · OpenCV |
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+---
 
-<img src="https://streak-stats.demolab.com?user=fadyehabamer&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Stats
 
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+---
 
-<div align="center">
+## 📺 YouTube — CSS & UI Animation Tutorials
 
-### 🚀 Featured Projects
+Building cool things with pure CSS, jQuery & creative frontend tricks:
 
-<a href="https://github.com/fadyehabamer/NYX"><img src="https://img.shields.io/badge/⭐_NYX-Zero--dep_CSS_%2B_JS_Framework-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="NYX"/></a>
-<a href="https://github.com/fadyehabamer/otp-input-kit"><img src="https://img.shields.io/badge/otp--input--kit-OTP_Input_Library-06B6D4?style=for-the-badge&labelColor=1a1a2e" alt="otp-input-kit"/></a>
-<a href="https://github.com/fadyehabamer/fea-jobs"><img src="https://img.shields.io/badge/fea--jobs-.NET_Recruitment_System-512BD4?style=for-the-badge&logo=dotnet&labelColor=1a1a2e" alt="fea-jobs"/></a>
+| Tutorial | |
+|----------|--|
+| SVG text animation using CSS3 | [▶ Watch](https://www.youtube.com/watch?v=4nMoIKhY0JM) |
+| Custom cursor using pure CSS3 | [▶ Watch](https://www.youtube.com/watch?v=mCyXI00u2f4) |
+| Hinata card using CSS3 | [▶ Watch](https://www.youtube.com/watch?v=KJCMXjVpsG0) |
+| Firework effects using jQuery | [▶ Watch](https://www.youtube.com/watch?v=cqfYSoXj_UQ) |
 
-</div>
+---
 
-<br/>
+## 🌎 Problem Solving
 
-<div align="center">
-  <sub>✨ Open to collaborations &amp; freelance in the MENA frontend space — <a href="https://www.fadyehabamer.com/">fadyehabamer.com</a></sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=fadyehabamer&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
+| Platform | Profile | Progress |
+|----------|---------|----------|
+| 🟢 CoderHub | [fadyehabamer](https://profile.satr.codes/user/fadyehabamer) | ⭐⭐⭐⭐ · 97 problems solved |
+| 🟠 Edabit | [fadyehabamer](https://edabit.com/user/DXa4QWAASdwrmo42q) | Level 7 · 1,180 XP |
+| 🟡 LeetCode | [fadyehabamer](https://leetcode.com/fadyehabamer/) | JavaScript |
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **collaborations, freelance, and interesting ideas in the MENA frontend space** — reach me at **[fadyehabamer.com](https://www.fadyehabamer.com/)** or on [LinkedIn](https://www.linkedin.com/in/fadyehabamer/).
+
+![Profile Views](https://komarev.com/ghpvc/?username=fadyehabamer&color=58A6FF&style=flat-square&label=Profile+Views)
