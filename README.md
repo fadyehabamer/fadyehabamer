@@ -66,6 +66,22 @@ I build **Arabic-first, RTL storefronts and web apps** for the MENA market — S
 
 ---
 
+## 🌐 Live Demo Galleries
+
+Hundreds of my frontend demos are **deployed and browsable** — click any collection to see them running:
+
+**🎨 CSS & UI** — [logos](https://fadyehabamer.github.io/css-logos/) · [animations](https://fadyehabamer.github.io/css-animations/) · [components](https://fadyehabamer.github.io/css-components/) · [layouts](https://fadyehabamer.github.io/css-layouts/) · [snippets](https://fadyehabamer.github.io/css-snippets/) · [loaders](https://fadyehabamer.github.io/css-loaders/)
+
+**🌐 Websites** — [landing-pages](https://fadyehabamer.github.io/landing-pages/) · [clones](https://fadyehabamer.github.io/clones/) · [web-templates](https://fadyehabamer.github.io/web-templates/)
+
+**⚡ JavaScript** — [js-apps](https://fadyehabamer.github.io/js-apps/) · [js-logic](https://fadyehabamer.github.io/js-logic/) · [games](https://fadyehabamer.github.io/games/)
+
+**⚛️ Frameworks** — [react-lab](https://fadyehabamer.github.io/react-lab/) · [framework-lab](https://fadyehabamer.github.io/framework-lab/)
+
+**📚 Learning** — [references](https://fadyehabamer.github.io/references/) · [problem-solving](https://fadyehabamer.github.io/problem-solving/) · [university](https://fadyehabamer.github.io/university/)
+
+---
+
 ## 📊 GitHub Stats
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
