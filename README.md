@@ -177,6 +177,10 @@ const fady = {
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ## 📂 Browse My Work by Category
 
 Hundreds of demos, **curated into browsable collections** — each with a README index.
@@ -197,7 +201,7 @@ Hundreds of demos, **curated into browsable collections** — each with a README
 <a href="https://github.com/fadyehabamer/css-animations"><img src="https://img.shields.io/badge/css--animations-37-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-animations"/></a>
 <a href="https://github.com/fadyehabamer/css-components"><img src="https://img.shields.io/badge/css--components-63-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-components"/></a>
 <a href="https://github.com/fadyehabamer/css-layouts"><img src="https://img.shields.io/badge/css--layouts-13-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-layouts"/></a>
-<a href="https://github.com/fadyehabamer/css-snippets"><img src="https://img.shields.io/badge/css--snippets-63-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-snippets"/></a>
+<a href="https://github.com/fadyehabamer/css-snippets"><img src="https://img.shields.io/badge/css--snippets-62-E91E63?style=for-the-badge&labelColor=1a1a2e&logoColor=white" alt="css-snippets"/></a>
 
 <br/>
 
@@ -214,6 +218,7 @@ Hundreds of demos, **curated into browsable collections** — each with a README
 <a href="https://github.com/fadyehabamer/js-apps"><img src="https://img.shields.io/badge/js--apps-9-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="js-apps"/></a>
 <a href="https://github.com/fadyehabamer/js-logic"><img src="https://img.shields.io/badge/js--logic-5-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="js-logic"/></a>
 <a href="https://github.com/fadyehabamer/games"><img src="https://img.shields.io/badge/games-7-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="games"/></a>
+<a href="https://github.com/fadyehabamer/chrome-extensions"><img src="https://img.shields.io/badge/chrome--extensions-1-F0DB4F?style=for-the-badge&labelColor=1a1a2e&logoColor=black" alt="chrome-extensions"/></a>
 
 <br/>
 
