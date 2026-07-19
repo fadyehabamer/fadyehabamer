@@ -84,8 +84,19 @@ Hundreds of my frontend demos are **deployed and browsable** — click any colle
 
 ## 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyehabamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Followers](https://img.shields.io/github/followers/fadyehabamer?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=1a1a2e)
+![Public Repos](https://img.shields.io/badge/Public_Repos-65-58a6ff?style=for-the-badge&logo=github&labelColor=1a1a2e)
+![Stars Earned](https://img.shields.io/badge/Stars_Earned-48-58a6ff?style=for-the-badge&logo=github&labelColor=1a1a2e)
+![Live Demos](https://img.shields.io/badge/Live_Demos-350%2B-8B5CF6?style=for-the-badge&logo=githubpages&labelColor=1a1a2e)
+
+**Most-used languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-33%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-23%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-19%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 
 ---
 
