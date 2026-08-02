@@ -62,7 +62,6 @@ I build **Arabic-first, RTL storefronts and web apps** for the MENA market — S
 | **[NYX](https://github.com/fadyehabamer/NYX)** ⭐37 | Zero-dependency CSS + JS component framework — fully themeable, light/dark, first-class RTL & Arabic typography | CSS · JS |
 | **[otp-input-kit](https://github.com/fadyehabamer/otp-input-kit)** | Framework-agnostic OTP input library — RTL, i18n, a11y, timers, Web Component support | JavaScript |
 | **[fea-jobs](https://github.com/fadyehabamer/fea-jobs)** | Full-stack .NET recruitment system with Entity Framework & SQL Server | C# · .NET · EF · SQL |
-| **[ComputerVision-SandBox](https://github.com/fadyehabamer/ComputerVision-SandBox)** ⭐9 | Computer-vision lecture notes & Python code — OpenCV, NumPy, SciPy | Python · OpenCV |
 
 ---
 
