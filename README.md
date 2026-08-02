@@ -2,7 +2,7 @@
 
 # Hi, I'm Fady Ehab Amer 👋
 
-### Frontend Developer · Arabic/RTL & MENA E-commerce
+### Frontend Developer · Arabic/RTL & MENA Solutions
 
 I build **Arabic-first, RTL storefronts and web apps** for the MENA market — Salla themes, React/Angular dashboards, and React Native apps — with a focus on clean RTL layouts, performance, and Arabic UX. Currently shipping a **Quran PWA** 🕌 and always open to interesting frontend work.
 
