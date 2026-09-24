@@ -78,6 +78,31 @@ More live galleries: [CSS animations](https://fadyehabamer.github.io/css-animati
 
 ---
 
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true&theme=default" />
+    <img height="170" alt="GitHub stats for fadyehabamer" src="https://github-stats-extended.vercel.app/api?username=fadyehabamer&show_icons=true&hide_border=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=fadyehabamer&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=fadyehabamer&layout=compact&langs_count=8&hide_border=true&theme=default" />
+    <img height="170" alt="Top languages for fadyehabamer" src="https://github-stats-extended.vercel.app/api/top-langs?username=fadyehabamer&layout=compact&langs_count=8&hide_border=true&theme=default" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fadyehabamer&hide_border=true&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fadyehabamer&hide_border=true&theme=default" />
+    <img alt="GitHub contribution streak for fadyehabamer" src="https://streak-stats.demolab.com?user=fadyehabamer&hide_border=true&theme=default" />
+  </picture>
+</p>
+
+---
+
 ## Get in touch
 
 Available for select freelance work. The best place to start is [fadyehabamer.com](https://www.fadyehabamer.com/), or email me at [fadyamer45@gmail.com](mailto:fadyamer45@gmail.com).
