@@ -25,6 +25,23 @@ I work with React, Angular, TypeScript and .NET for clients across Egypt, Saudi 
 
 ---
 
+## Featured projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **NYX** | A zero-dependency CSS + JS component framework: fully themeable, light and dark, with first-class RTL and Arabic typography. | [Docs](https://fadyehabamer.github.io/NYX/) · [Arabic docs](https://fadyehabamer.github.io/NYX/docs/docs.ar.html) · [Repo](https://github.com/fadyehabamer/NYX) |
+| **qr-zero** | Zero-dependency QR code encoder for JavaScript and TypeScript: byte mode, versions 1–40, EC levels L/M/Q/H, SVG output. | [Repo](https://github.com/fadyehabamer/qr-zero) |
+| **otp-input-kit** | Customizable, framework-agnostic OTP input library with RTL, i18n, accessibility, timers, toasts and Web Component support. | [Demo](https://fadyehabamer.github.io/otp-input-kit/demo/) · [Repo](https://github.com/fadyehabamer/otp-input-kit) |
+| **Quran PWA** | Offline-first Islamic PWA with a fully RTL Arabic interface: Quran reader, prayer times, Azkar, a Masbaha counter and a daily hadith and verse. | [Live](https://quran.fadyehabamer.com/) · [Repo](https://github.com/fadyehabamer/QuranPWA) |
+| **js-apps** | Vanilla-JS apps with UI, including a [Hijri date converter](https://fadyehabamer.github.io/js-apps/Hijri-Date-Converter/), [prayer times](https://fadyehabamer.github.io/js-apps/Prayer-Times/), [Arabic text tools](https://fadyehabamer.github.io/js-apps/Arabic-Text-Tools/) and a [zakat calculator](https://fadyehabamer.github.io/js-apps/Zakat-Calculator/). | [Gallery](https://fadyehabamer.github.io/js-apps/) · [Repo](https://github.com/fadyehabamer/js-apps) |
+| **games** | Browser games built with JS and CSS: [Arabic Wordle](https://fadyehabamer.github.io/games/Arabic-Wordle/), [2048](https://fadyehabamer.github.io/games/2048/), [Snake](https://fadyehabamer.github.io/games/Snake/) and an English/Arabic [typing test](https://fadyehabamer.github.io/games/Typing-Speed-Test/). | [Gallery](https://fadyehabamer.github.io/games/) · [Repo](https://github.com/fadyehabamer/games) |
+| **css-components** | 69 UI components such as a [bilingual navbar](https://fadyehabamer.github.io/css-components/Bilingual-Navbar/), an [RTL pricing table](https://fadyehabamer.github.io/css-components/RTL-Pricing-Table/) and a [command palette](https://fadyehabamer.github.io/css-components/Command-Palette/). | [Gallery](https://fadyehabamer.github.io/css-components/) · [Repo](https://github.com/fadyehabamer/css-components) |
+| **Chrome extensions** | Published extensions, including No Cache Reload, which reloads the current tab while bypassing the browser cache. | [Chrome Web Store](https://chromewebstore.google.com/search/fadyehabamer) |
+
+More live galleries: [CSS animations](https://fadyehabamer.github.io/css-animations/) · [CSS layouts](https://fadyehabamer.github.io/css-layouts/) · [CSS loaders](https://fadyehabamer.github.io/css-loaders/) · [CSS logos](https://fadyehabamer.github.io/css-logos/) · [landing pages](https://fadyehabamer.github.io/landing-pages/) · [clones](https://fadyehabamer.github.io/clones/) · [web templates](https://fadyehabamer.github.io/web-templates/) · [framework lab](https://fadyehabamer.github.io/framework-lab/) · [problem solving](https://fadyehabamer.github.io/problem-solving/)
+
+---
+
 ## Tech stack
 
 **Languages**
