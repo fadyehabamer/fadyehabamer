@@ -17,7 +17,6 @@ I'm Fady, a software engineer who builds the parts you don't see: zero-dependenc
 
 I work with React, Angular, TypeScript and .NET for clients across Egypt, Saudi Arabia and the Gulf, and I've shipped 150+ Salla and Zid storefronts. I care about the details most people never notice: real focus states, RTL and Arabic typography, a working reduced-motion path, and small bundles.
 
-<p dir="rtl">مطوّر واجهات أمامية من مصر، أبني مواقع وتطبيقات ويب تدعم اللغة العربية والاتجاه من اليمين إلى اليسار.</p>
 
 - **#1** GitHub contributor in Egypt, 2023
 - **35th** in the CSS Battle world ranking
