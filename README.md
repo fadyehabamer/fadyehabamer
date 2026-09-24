@@ -101,6 +101,14 @@ More live galleries: [CSS animations](https://fadyehabamer.github.io/css-animati
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadyehabamer/fadyehabamer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadyehabamer/fadyehabamer/output/github-snake.svg" />
+    <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/fadyehabamer/fadyehabamer/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## Get in touch
